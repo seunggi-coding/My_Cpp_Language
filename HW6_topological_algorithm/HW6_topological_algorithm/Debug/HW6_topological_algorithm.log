@@ -1,0 +1,4 @@
+﻿  topological.cpp
+D:\Workspace_C++\HW6_topological_algorithm\HW6_topological_algorithm\topological.cpp(26,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Workspace_C++\HW6_topological_algorithm\HW6_topological_algorithm\topological.cpp(48,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  HW6_topological_algorithm.vcxproj -> D:\Workspace_C++\HW6_topological_algorithm\Debug\HW6_topological_algorithm.exe
